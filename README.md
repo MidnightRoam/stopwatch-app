@@ -1,2 +1,2 @@
 # Stopwatch web application
-Written on native JavaScript
+Developed using JavaScript
