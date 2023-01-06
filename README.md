@@ -1,2 +1,2 @@
 # Stopwatch web application
-Developed using JavaScript
+JavaScript stopwatch that can be started, paused and restarted
